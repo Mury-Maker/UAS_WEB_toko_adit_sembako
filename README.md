@@ -3,6 +3,7 @@
     M. BAGUS SAPUTRA
     ALBIN KUMARA M.
     KEVIN NUGROHO</p>
+<p>Manual Book: https://drive.google.com/file/d/1FHv8IAdSmWj15AhC4tjDAn9gNpgaA7Ir/view?usp=drive_link</p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
